@@ -59,7 +59,7 @@ Make sure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/dialogflow-flight-booking.git
+   git clone https://github.com/ArbazYousuf/dialogflow-flight-booking.git
    cd dialogflow-flight-booking/backend
    ```
 
